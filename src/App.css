@@ -1,0 +1,10 @@
+.wedding-container {
+	width: 100%;
+	background: #ccc;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	transition: 0.5s ease-out all;
+}
